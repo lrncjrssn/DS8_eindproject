@@ -1,0 +1,500 @@
+file_name;time(s);acc_x_ms2;acc_y_ms2;acc_z_ms2;acc_abs_ms2;road_type;Weather Conditions;backpack_weight_kg;total_weight_kg;total_weights;weight_description
+sample_01_Asfalt_combo1_cut01.csv;0;0.0020082;0.047438025;-0.010847092;0.048703783;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut02.csv;1;0.297101617;-0.081572413;-0.079092979;0.318086669;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut03.csv;2;-0.984995008;0.236972094;0.137576103;1.022398221;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut04.csv;3;-1.752987862;0.018637121;-1.339848518;2.206469541;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut05.csv;4;-0.485948861;-1.351871729;0.133001328;1.442703303;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut06.csv;5;1.633732557;0.04260172;0.214351654;1.64828505;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut07.csv;6;-0.6595999;-0.123144269;-0.929683685;1.146537524;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut08.csv;7;-0.673195005;-0.52006501;1.535151482;1.755092362;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut09.csv;8;0.438553095;-0.401208192;0.605149269;0.848234913;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut10.csv;9;1.076945066;0.171215236;1.867549896;2.162606748;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut11.csv;10;0.066216871;0.0561077;0.54814148;0.554970116;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut12.csv;11;1.201065779;0.30714947;0.511864662;1.341232729;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut13.csv;12;0.245085478;-0.235488951;-0.124010086;0.361801657;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut14.csv;13;0.125968292;0.190126419;-0.985897064;1.011933341;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut15.csv;14;0.653780699;0.337255061;-0.945958138;1.198335085;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut16.csv;15;-0.098418221;0.552426219;0.515316963;0.761848047;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut17.csv;16;-0.965238452;0.810797811;1.213798523;1.749967203;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut18.csv;17;0.329728007;-0.411608756;-0.015032768;0.527606208;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut19.csv;18;-0.040858462;0.131704688;0.056458473;0.14900704;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut20.csv;19;1.649070859;-0.935327053;0.287851334;1.917584362;Asfalt;Dry;0;75;90.3;No backpack
+sample_01_Asfalt_combo1_cut21.csv;20;-0.794095993;-0.136180371;-0.025905609;0.806104609;Asfalt;Dry;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut01.csv;0;0.671005249;0.057815194;0.400549889;0.783601209;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut02.csv;1;0.424125969;0.019337267;0.046450615;0.42710002;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut03.csv;2;-0.825280905;1.251053691;-3.491896152;3.799942453;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut04.csv;3;0.07476186;1.175032377;-0.861814499;1.459114339;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut05.csv;4;0.731899142;-0.632537484;1.73897934;1.98993195;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut06.csv;5;0.212689072;0.286506355;-0.532499313;0.6409977;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut07.csv;6;0.86720252;0.251352698;-0.50757885;1.035786985;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut08.csv;7;-0.208180755;-0.61841017;-0.388762474;0.759543696;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut09.csv;8;0.087778032;0.532581627;0.070022583;0.544289753;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut10.csv;9;-0.269612312;-0.008846104;0.798201561;0.842552541;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut11.csv;10;0.230865911;-0.103943408;-0.812235832;0.850782198;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut12.csv;11;-0.357279062;0.189502895;-0.885730743;0.973693291;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut13.csv;12;-0.034604669;0.072521985;-1.342642784;1.345045191;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut14.csv;13;-1.786198139;0.743913174;0.361927033;1.96847702;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut15.csv;14;-0.35762009;-0.090448409;2.338915825;2.367826066;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut16.csv;15;0.533353925;0.865703583;1.606975555;1.901651792;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut17.csv;16;0.485579133;-0.126806498;0.623895645;0.800695172;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut18.csv;17;0.257713348;-0.582722127;-0.369688988;0.736648624;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut19.csv;18;0.410921574;0.015200734;0.01881218;0.411632725;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut20.csv;19;0.165036678;0.08901006;-0.086068153;0.206319226;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut21.csv;20;0.083216831;-0.068899453;0.127002716;0.166738914;Gras;Damp;0;75;90.3;No backpack
+sample_02_Gras_combo1_cut22.csv;21;2.649954081;0.710930646;-1.79276228;3.277449558;Gras;Damp;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut01.csv;0;2.061758518;-1.171804547;-0.443983078;2.412694564;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut02.csv;1;1.728621006;0.641763568;1.143596649;2.169747533;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut03.csv;2;-0.08825025;-0.27621612;0.59113884;0.658428872;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut04.csv;3;-0.049794562;1.69313395;0.596307755;1.795763072;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut05.csv;4;-0.077367187;-1.166969299;3.358489037;3.556297462;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut06.csv;5;-0.626199544;1.228872895;0.435712814;1.446409388;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut07.csv;6;0.943867087;1.716915846;-1.287363052;2.344352518;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut08.csv;7;0.823075175;1.02130723;-1.497447014;1.990695547;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut09.csv;8;0.384199858;-0.903403878;0.19948864;1.001770341;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut10.csv;9;0.434445649;-0.945769429;0.107362747;1.046302822;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut11.csv;10;-2.191802025;-0.172144949;1.364351273;2.587486115;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut12.csv;11;1.57267344;-1.080042481;1.683282852;2.544255229;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut13.csv;12;0.257281154;-0.739609718;3.995566368;4.071580373;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut14.csv;13;1.816004395;0.216924012;-0.849825859;2.016713163;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut15.csv;14;-1.273032904;0.173148513;-0.786541939;1.506400147;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut16.csv;15;-1.698930025;0.667855263;1.059275627;2.110558868;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut17.csv;16;0.185337842;-0.474292845;0.174834251;0.538396539;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut18.csv;17;2.048935413;-0.263642967;-0.003429413;2.065830512;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut19.csv;18;0.00278914;0.00230068;0.038714409;0.038882874;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut20.csv;19;-1.327672243;-0.538189173;-0.091726303;1.435539928;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut21.csv;20;-3.136712551;-0.228438199;1.356985092;3.425282204;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut22.csv;21;0.650439382;-1.13596487;0.383146286;1.363923991;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut23.csv;22;-0.307192147;-1.104085207;2.098467827;2.391011999;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut24.csv;23;0.000161678;2.868406534;-0.212656975;2.876278683;Kiesel;Dry;0;75;90.3;No backpack
+sample_03_Kiesel_combo1_cut25.csv;24;0.941752672;-2.393012285;0.748497009;2.678367724;Kiesel;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut01.csv;0;0.308738679;1.057466865;2.210329056;2.469637681;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut02.csv;1;0.061745107;0.668238998;-0.903316498;1.125316183;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut03.csv;2;-1.142837882;0.372062683;-2.234552383;2.53726889;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut04.csv;3;-0.810225785;-0.27103287;-0.664752007;1.082506291;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut05.csv;4;-1.135276675;2.01839304;-2.631547928;3.505396994;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut06.csv;5;1.00607717;1.128656387;-0.644008637;1.643412193;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut07.csv;6;-1.391537786;1.008091211;0.506371498;1.791378629;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut08.csv;7;-0.492145687;0.786287844;-0.109558106;0.9340551;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut09.csv;8;-0.351044923;-2.403494358;3.024569511;3.879180119;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut10.csv;9;0.697313249;0.802394748;0.285718918;1.100780813;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut11.csv;10;1.167672276;-0.067935586;0.47224617;1.261384253;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut12.csv;11;-1.775848985;0.861202478;-0.846320152;2.147455966;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut13.csv;12;-0.338918686;-0.941497266;2.178127289;2.396981741;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut14.csv;13;-1.133544445;-0.308495373;0.088433266;1.178097129;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut15.csv;14;-0.661007285;1.771218181;0.416121483;1.935794814;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut16.csv;15;-0.205021113;-0.051932395;-0.034582138;0.214304817;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut17.csv;16;-0.059677862;-0.039880723;-0.020564079;0.074664587;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut18.csv;17;1.409456253;2.754814148;-1.206169128;3.32120639;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut19.csv;18;1.066949844;0.269437254;-0.637390137;1.271709318;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut20.csv;19;0.000888005;-0.000301123;0.007979393;0.008034298;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut21.csv;20;0.176336199;-0.44255203;0.453397751;0.657659695;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut22.csv;21;0.568581224;0.310518682;0.399542809;0.761144477;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut23.csv;22;-1.39976275;-0.584934831;-0.243058205;1.53641199;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut24.csv;23;-0.236171544;0.120322347;0.111907005;0.287711041;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut25.csv;24;0.214184403;-0.038653076;0.088070869;0.234788196;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut26.csv;25;0.280326694;0.521545053;-0.078769684;0.597324837;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut27.csv;26;-1.95661366;0.585333586;-1.957158089;2.828678173;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut28.csv;27;0.599848032;0.336982876;0.845684052;1.090209446;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut29.csv;28;2.064571142;0.193441749;-1.72884655;2.699774825;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut30.csv;29;0.708000183;-0.488283932;-0.828262329;1.194028452;Klinker;Dry;0;75;90.3;No backpack
+sample_04_Klinker_combo1_cut31.csv;30;0.007906944;-0.083153546;0.820637703;0.824877731;Klinker;Dry;0;75;90.3;No backpack
+sample_05_Asfalt_combo2_cut01.csv;0;1.029098272;0.192836374;0.642385483;1.228368117;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut02.csv;1;-0.917510033;0.941368163;1.182038307;1.767827265;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut03.csv;2;-0.457740247;-0.554510713;-1.642521858;1.793010407;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut04.csv;3;-0.954420149;0.206570864;-0.340773583;1.034270747;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut05.csv;4;-0.877339959;-0.241100952;1.569654465;1.814296065;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut06.csv;5;0.201023936;-0.519703507;-1.126373291;1.256669865;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut07.csv;6;0.743595362;-0.054931462;-0.109805107;0.753663512;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut08.csv;7;-0.266111434;-0.556133151;0.259919167;0.669072007;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut09.csv;8;2.174084663;0.282334387;-0.023416519;2.192465544;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut10.csv;9;-0.60797888;-0.332832992;0.28604126;0.749823794;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut11.csv;10;-6.606027126;-0.453946769;1.301231384;6.748249045;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut12.csv;11;-0.056442112;0.251116395;-0.146840096;0.296322745;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut13.csv;12;-1.041102648;0.22842139;0.003149033;1.065870992;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut14.csv;13;-0.729858518;0.209338665;-0.037883759;0.760231091;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut15.csv;14;-0.261655092;-0.189873666;0.048457146;0.326899818;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut16.csv;15;-0.092671737;-0.363676846;0.384677887;0.537425321;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut17.csv;16;-4.352113247;1.51767087;-2.357725143;5.177169346;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut18.csv;17;0.372438163;-0.177350909;-0.268122673;0.491989123;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut19.csv;18;-0.001527801;0.005109131;0.070827484;0.071027952;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut20.csv;19;0.223936915;-0.205937594;0.171318054;0.349153133;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut21.csv;20;0.032942917;-0.024165452;0.232391357;0.235955394;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut22.csv;21;-0.027039781;-0.15806362;-0.077618599;0.178156967;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_05_Asfalt_combo2_cut23.csv;22;-3.108481884;3.157519817;-0.527350426;4.462139564;Asfalt;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut01.csv;0;-0.488235891;1.409020782;-3.343546391;3.661013017;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut02.csv;1;1.108961105;-0.28481251;-0.681776047;1.33256575;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut03.csv;2;1.233076096;0.803649485;0.66855526;1.616568986;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut04.csv;3;0.407927275;-0.207766205;2.159313202;2.207307174;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut05.csv;4;-0.67674911;-0.403544903;2.995456696;3.097353493;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut06.csv;5;0.964236319;0.401438505;-0.009293556;1.044505109;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut07.csv;6;-0.736340582;1.064245939;-0.81120491;1.527373654;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut08.csv;7;-2.76960206;-1.257469177;2.33465004;3.834385885;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut09.csv;8;-1.050613046;0.856909573;-1.655879974;2.140098193;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut10.csv;9;1.38218534;-0.5185197;-0.325720787;1.511751641;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut11.csv;10;-0.530948699;-0.532988012;-0.484696388;0.894937612;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut12.csv;11;0.135869116;-0.6209144;1.375561714;1.515310245;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut13.csv;12;-0.580835462;0.219463646;-1.470389366;1.596113722;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut14.csv;13;0.6124686;1.026736259;-1.73977375;2.110951879;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut15.csv;14;-0.372653484;-0.650509358;2.113525391;2.242548243;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut16.csv;15;-0.036122948;0.180293351;-0.065721512;0.19526873;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut17.csv;16;0.063457243;0.009342134;0.029438019;0.070574033;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut18.csv;17;-0.395815879;-0.179423451;0.150742531;0.459985104;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut19.csv;18;-0.066549167;-0.143601328;0.033719063;0.161824313;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_06_Gras_combo2_cut20.csv;19;0.000636697;-0.000816226;0.003882408;0.004018047;Gras;Damp;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut01.csv;0;0.870630503;-0.063504934;0.068562508;0.875631867;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut02.csv;1;-4.45188427;-0.002921015;0.06729126;4.45239376;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut03.csv;2;0.959468246;-2.405747652;-0.603542328;2.65941054;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut04.csv;3;1.087932348;-0.38319099;0.412354469;1.224936054;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut05.csv;4;4.061152458;2.168980122;-0.532579422;4.634768052;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut06.csv;5;-2.867041826;1.179898739;0.680478096;3.174136151;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut07.csv;6;1.60470283;0.398174405;1.732823372;2.395055504;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut08.csv;7;0.076029956;-1.289988518;-0.650659561;1.446792589;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut09.csv;8;-1.23516953;-1.516415834;3.34869957;3.878008453;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut10.csv;9;0.769079804;-0.774996996;-0.195617676;1.109220611;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut11.csv;10;-0.697710991;0.973835528;-0.653515816;1.364638847;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut12.csv;11;-0.236001626;1.079572201;4.873443604;4.99716174;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut13.csv;12;0.217383564;1.261494637;-0.877839088;1.552168096;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut14.csv;13;-0.187404603;1.224461198;-0.173473358;1.250807226;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut15.csv;14;0.732694209;-0.362017095;-2.574629784;2.701224852;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut16.csv;15;-1.42916441;-0.222003043;0.803394318;1.654460241;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut17.csv;16;-0.014612138;-0.734985411;0.312005997;0.798601785;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut18.csv;17;-0.419485688;-0.727868199;1.175281525;1.444661559;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut19.csv;18;-0.053232461;0.643897533;0.634795189;0.905760819;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut20.csv;19;-1.308802843;1.608130693;-0.520933151;2.137854195;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut21.csv;20;-0.199512377;-0.381798685;0.145504952;0.45469453;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut22.csv;21;0.626949608;0.214444757;-0.581875801;0.881834346;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut23.csv;22;-3.320545435;1.423311472;-0.49605751;3.646630031;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut24.csv;23;-0.078842878;0.039862394;0.395758629;0.405499818;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut25.csv;24;0.84637183;-0.095717013;-0.040998459;0.852753126;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut26.csv;25;2.31959033;0.877807736;1.002163887;2.674953865;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_07_Kiesel_combo2_cut27.csv;26;-1.438933015;0.636950612;-0.120195389;1.578189227;Kiesel;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut01.csv;0;0.092682377;-1.935822964;-0.269271851;1.956657328;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut02.csv;1;0.07062915;0.219268918;2.005823135;2.019008119;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut03.csv;2;0.974251032;0.267720848;0.311188698;1.057202881;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut04.csv;3;0.977068305;-0.338669628;0.235486984;1.06057235;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut05.csv;4;1.017896652;0.420353949;-1.228330612;1.649729411;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut06.csv;5;-0.882631481;0.175361306;3.232879639;3.355786149;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut07.csv;6;1.383828759;1.782679081;-1.347572327;2.628474447;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut08.csv;7;0.213008419;1.966496944;-1.675924301;2.592528704;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut09.csv;8;0.153341889;-1.492214084;0.016637802;1.500164465;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut10.csv;9;-1.962389946;2.145885468;-1.153107643;3.128171347;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut11.csv;10;0.16103667;-0.025179356;-0.91157341;0.926030718;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut12.csv;11;0.985800326;0.347637177;-0.823577881;1.330764598;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut13.csv;12;-1.177031994;1.072463512;-2.33161211;2.823472566;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut14.csv;13;0.655049264;1.036596894;-0.612102509;1.370507986;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut15.csv;14;0.467412502;1.432694912;-2.075836658;2.565187516;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut16.csv;15;0.82654357;-0.512934029;0.581782341;1.13346649;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut17.csv;16;0.410395622;-0.581452191;1.101921082;1.311770287;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut18.csv;17;-3.214160681;-2.221624851;0.345910072;3.922511904;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut19.csv;18;2.067747831;-0.791101754;3.427597046;4.080422109;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut20.csv;19;-1.376698494;-1.556036949;1.526934624;2.578386913;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut21.csv;20;-0.840925515;-0.502069116;0.080712318;0.982722543;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut22.csv;21;0.223240823;-0.190734848;-0.1316185;0.321775818;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut23.csv;22;0.024716645;-0.010250717;0.036067963;0.044909773;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut24.csv;23;0.891945839;0.095173359;0.245047569;0.929878303;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut25.csv;24;-0.670752287;0.533563972;0.230173111;0.887456367;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut26.csv;25;-0.451221943;0.230727762;-0.078834534;0.512885392;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut27.csv;26;0.001407683;-0.000986636;-0.020277023;0.020349759;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut28.csv;27;-0.198507577;0.152827978;-0.034889221;0.25294052;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_08_Klinker_combo2_cut29.csv;28;-4.353619576;-1.560182929;0.088804245;4.625587571;Klinker;Dry;0.4;75.4;90.7;Backpack only (0.4kg)
+sample_09_Asfalt_combo3_cut01.csv;0;-2.885437012;0.185492247;0.393191338;2.918005063;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut02.csv;1;-0.209356651;-0.069794521;0.402272224;0.458829407;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut03.csv;2;-0.282916725;0.849514425;1.703336716;1.924336924;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut04.csv;3;-0.613304079;0.040069327;0.923440933;1.109274809;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut05.csv;4;0.814100385;0.21263203;1.559731483;1.772211646;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut06.csv;5;-0.299937069;0.31164223;-0.544753075;0.695585392;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut07.csv;6;-0.309136748;-0.334461272;0.330698967;0.562842499;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut08.csv;7;0.074256569;-0.339373291;0.155734062;0.380711658;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut09.csv;8;-0.971362948;-0.141756147;-0.177803993;0.9976247;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut10.csv;9;-0.705631912;-0.457888603;0.770718575;1.140870496;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut11.csv;10;-0.235430807;0.593162119;-0.528850555;0.8288256;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut12.csv;11;-0.360189319;0.133234501;0.071084976;0.390564785;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut13.csv;12;-1.153312206;0.795507073;-1.67993927;2.187500057;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut14.csv;13;-0.942266524;-0.10953483;-0.794151306;1.237150103;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut15.csv;14;0.34467873;0.182195395;1.016162872;1.088386683;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut16.csv;15;0.213428319;-0.169804201;0.398474693;0.482873891;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut17.csv;16;1.089036703;-0.14930588;0.451045036;1.188164471;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut18.csv;17;-0.438565105;-0.509625971;0.35845089;0.761935051;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut19.csv;18;0.198409066;0.771813273;0.887099266;1.192479347;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut20.csv;19;-0.168865889;0.196614653;-0.006445885;0.259257709;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut21.csv;20;-0.999949992;-0.136683047;0.287448883;1.049385106;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_09_Asfalt_combo3_cut22.csv;21;-1.596156001;-0.513408423;-0.311832428;1.705444708;Asfalt;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut01.csv;0;-0.002793819;0.004760444;0.087285042;0.087459395;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut02.csv;1;-0.128928185;0.026617467;-0.184549332;0.226692351;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut03.csv;2;0.123330757;-0.194156051;0.073830605;0.241574017;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut04.csv;3;3.08400321;-0.294596911;-1.663783073;3.51653768;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut05.csv;4;0.29201445;-0.726781607;0.216191292;0.81254084;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut06.csv;5;-0.484166205;2.635927916;2.444507599;3.627416476;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut07.csv;6;0.473818839;-0.28921625;-0.776018143;0.954124986;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut08.csv;7;2.278824806;0.351089895;-2.434296608;3.352925079;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut09.csv;8;-0.173198402;-1.703664541;0.014328957;1.71250573;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut10.csv;9;-0.196968734;-1.00439775;2.130121231;2.36326638;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut11.csv;10;-0.336092293;-0.029817045;0.722923279;0.797787662;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut12.csv;11;0.957491756;-1.300553441;0.053845406;1.615898834;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut13.csv;12;-0.638095021;0.357448161;-3.132441521;3.216694627;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut14.csv;13;1.519056797;-1.471164346;1.72173214;2.726943279;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut15.csv;14;-0.343213797;-0.340991288;-0.358150482;0.601948949;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut16.csv;15;-0.569126129;-0.114859939;-1.305641174;1.428914354;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut17.csv;16;-0.880600035;0.630132854;-2.611598492;2.827184203;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut18.csv;17;-0.951282978;0.880294681;-1.711585999;2.146947754;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut19.csv;18;-1.744979858;1.757542372;0.439049721;2.515288165;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut20.csv;19;-0.000707775;-0.84026891;0.10508728;0.84681502;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_10_Gras_combo3_cut21.csv;20;0.440446913;0.015503466;0.024681091;0.441410237;Gras;Damp;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut01.csv;0;-2.912567377;1.017791748;-0.938741684;3.224931738;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut02.csv;1;-0.001824588;0.003924429;0.060809135;0.06096295;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut03.csv;2;0.127772689;0.172527194;0.026491165;0.216317532;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut04.csv;3;0.277407348;-0.225559175;-0.086891174;0.367942733;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut05.csv;4;-1.099775791;1.939316034;1.105632782;2.48854924;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut06.csv;5;1.212543726;0.389874071;0.270867348;1.302164812;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut07.csv;6;0.221628428;0.152699381;-1.315526009;1.342775089;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut08.csv;7;1.133595347;0.155135393;-1.686955452;2.038363093;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut09.csv;8;-1.522274017;2.259602547;2.157084465;3.475073415;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut10.csv;9;1.324294806;0.741284907;2.157607079;2.637902263;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut11.csv;10;-0.405131549;0.319555342;-0.142489433;0.535304051;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut12.csv;11;1.248141766;-0.503090084;2.117764473;2.509159991;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut13.csv;12;0.27679956;1.02930665;1.728343964;2.030581944;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut14.csv;13;0.074808359;0.15285939;2.051854134;2.058899626;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut15.csv;14;1.027345419;1.676971674;0.050890923;1.967298272;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut16.csv;15;-1.546655655;1.424619913;1.835010529;2.790868906;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut17.csv;16;-0.578534544;0.115110368;-2.422845364;2.493618309;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut18.csv;17;-1.003261089;3.433178663;-1.864669323;4.033638585;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut19.csv;18;0.228511393;1.45614934;0.878778458;1.716053593;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut20.csv;19;2.241226673;-1.098329186;3.536067009;4.328185982;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut21.csv;20;1.293746114;-0.073584497;-1.193575859;1.761765313;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut22.csv;21;-0.644229353;1.282727242;-1.81300354;2.312445128;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut23.csv;22;0.077937841;1.805505991;-3.856607437;4.259031241;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut24.csv;23;-0.426929355;0.542058945;-0.952952385;1.176526592;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut25.csv;24;0.504678607;-1.457109571;0.307542801;1.572403056;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_11_Kiesel_combo3_cut26.csv;25;0.237203449;-0.200758174;0.082482338;0.321516184;Kiesel;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut01.csv;0;0.002560757;0.013623595;0.287722588;0.288056327;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut02.csv;1;0.994313717;-0.452543974;0.440094948;1.177768814;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut03.csv;2;2.145603895;0.510017097;-0.560609818;2.275525628;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut04.csv;3;0.704240561;-1.208274961;1.678272247;2.184600852;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut05.csv;4;0.01533556;-1.200823188;-1.00886631;1.568445963;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut06.csv;5;-0.031941235;-0.282853305;-0.326462746;0.433132958;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut07.csv;6;-1.12844646;-0.141900301;1.318024635;1.740895186;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut08.csv;7;-0.019391507;-0.770320892;0.650125504;1.008183256;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut09.csv;8;0.495648563;1.145299435;-0.262296677;1.275216781;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut10.csv;9;-0.091393143;-1.362761378;0.003239632;1.365826408;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut11.csv;10;-0.216950208;0.370561659;0.174333572;0.46343881;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut12.csv;11;1.628929734;-1.532522082;4.376440048;4.914800454;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut13.csv;12;0.523720145;-1.420145035;0.620876312;1.636026316;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut14.csv;13;-0.203862011;-0.475523144;-1.719163895;1.795329072;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut15.csv;14;-2.794326305;0.261822045;-1.081968307;3.007900547;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut16.csv;15;1.042898417;-0.015348196;-0.240760803;1.070438433;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut17.csv;16;0.1962488;-0.281386912;1.015276909;1.071671306;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut18.csv;17;-0.284141213;-0.149572462;-0.100881577;0.336578732;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut19.csv;18;0.037112623;0.221813858;-1.557149887;1.573306869;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut20.csv;19;0.280267596;0.002566427;0.588335991;0.65168685;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut21.csv;20;-1.487402439;0.808186114;0.168912888;1.701194396;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut22.csv;21;0.689946234;1.250308037;-1.020698547;1.75531237;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut23.csv;22;-0.148974538;-0.000902027;0.223898888;0.268932963;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut24.csv;23;0.739696324;0.28243041;-0.238622665;0.826957293;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut25.csv;24;0.538416684;-0.208081514;-0.750367165;0.946700229;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut26.csv;25;-0.331612855;-0.45580706;0.009522438;0.563753349;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut27.csv;26;-0.36843732;0.010707647;0.026104927;0.369516143;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut28.csv;27;-0.531102598;0.15501833;0.047529221;0.55530143;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut29.csv;28;0.077917092;-0.031555831;0.026566505;0.08816248;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut30.csv;29;0.105009273;0.007720649;0.066878319;0.124736784;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_12_Klinker_combo3_cut31.csv;30;-0.029192135;-0.627069414;0.615267754;0.878989556;Klinker;Dry;0.9;75.9;91.2;Backpack + Weight1 (0.9kg)
+sample_13_Asfalt_combo4_cut01.csv;0;-0.000435665;0.00228858;0.053458214;0.053508953;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut02.csv;1;0.029603183;0.027618229;0.06016922;0.072522066;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut03.csv;2;0.371752441;-0.099389136;-0.156191826;0.415299849;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut04.csv;3;1.60544312;1.767148018;0.254385948;2.401035597;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut05.csv;4;-1.093515754;-0.030640513;-0.022510529;1.094176525;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut06.csv;5;-0.201659769;-0.443600088;1.919176102;1.98007187;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut07.csv;6;0.563968539;-0.085598379;-0.939257622;1.098905126;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut08.csv;7;-0.28891179;0.366121173;-0.352539063;0.584635379;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut09.csv;8;-0.421206266;0.49457401;0.677082062;0.938327389;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut10.csv;9;0.212847531;-0.525618553;-0.760560989;0.948700139;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut11.csv;10;-1.093100548;-0.489945829;1.01374054;1.569262758;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut12.csv;11;-0.598617911;0.047729194;0.002835274;0.60052437;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut13.csv;12;-0.57028234;-0.798244119;-0.415301323;1.065312541;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut14.csv;13;0.421696097;-0.324101389;1.046383858;1.173792352;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut15.csv;14;0.280364364;-0.330451399;-1.024228096;1.112135557;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut16.csv;15;-0.927372932;-0.983315468;-0.11827755;1.356804866;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut17.csv;16;-0.327422679;-0.049070179;0.011651039;0.331284228;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut18.csv;17;0.1679492;-0.511807919;-0.815518379;0.977355875;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut19.csv;18;0.270745724;-0.138010621;-0.874453545;0.925753304;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut20.csv;19;-0.022217199;0.655414105;-0.598308563;0.887713011;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut21.csv;20;-0.174632251;0.110263467;-0.430693626;0.477652023;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_13_Asfalt_combo4_cut22.csv;21;0.146349549;0.104168534;-0.160868645;0.241138954;Asfalt;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut01.csv;0;-0.142722994;0.021587193;0.17993927;0.230681601;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut02.csv;1;-0.00056807;-0.003566623;-0.062929153;0.063032705;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut03.csv;2;-0.793013632;0.221754313;-0.068941116;0.826316207;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut04.csv;3;-0.53256917;-0.847515166;-0.13053894;1.009431668;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut05.csv;4;-2.583207607;0.216553569;0.88901329;2.740474707;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut06.csv;5;0.055940986;-1.805719852;2.57886219;3.148695567;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut07.csv;6;-0.242264167;1.748082757;-2.843849182;3.346933436;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut08.csv;7;-0.733452916;-0.42344898;-3.608073235;3.706137435;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut09.csv;8;1.14283514;-0.690265119;1.101926804;1.731121247;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut10.csv;9;1.89202702;1.828732371;-0.623187065;2.704143201;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut11.csv;10;-0.05242756;0.408872366;-1.146209717;1.218081268;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut12.csv;11;-1.970527411;-1.480167747;-0.768184662;2.58146906;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut13.csv;12;-0.840839028;1.635954618;-0.093226433;1.841751599;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut14.csv;13;0.310524017;-0.398261935;4.254754066;4.284620158;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut15.csv;14;1.078966379;-1.285452366;-1.67984581;2.374539572;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut16.csv;15;0.74153018;-0.496749669;-1.596410751;1.828976361;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut17.csv;16;1.587204933;2.920335054;0.093128204;3.325093862;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut18.csv;17;0.341557324;-1.507747054;0.708712578;1.70065755;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut19.csv;18;-0.022319619;0.000635028;-0.006509781;0.023258243;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_14_Gras_combo4_cut20.csv;19;0.112007052;0.00161773;0.029091835;0.115734747;Gras;Damp;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut01.csv;0;1.18853879;-0.823803127;-0.274863243;1.472014215;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut02.csv;1;-0.002562612;0.00875473;0.121323586;0.121666038;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut03.csv;2;-0.460173309;0.000313222;0.098675728;0.470634116;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut04.csv;3;0.167027563;-0.071739495;0.108670235;0.211787586;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut05.csv;4;-0.067415535;-0.36860013;0.149868965;0.403573558;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut06.csv;5;0.104594752;1.364438295;0.557933807;1.477809885;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut07.csv;6;-0.631404758;0.916662455;-2.586326122;2.815674845;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut08.csv;7;0.281053364;3.319884539;0.516727448;3.371591849;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut09.csv;8;-0.317117274;-0.777830482;-2.922253132;3.040583331;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut10.csv;9;0.244088799;0.411981523;-1.777395248;1.840772117;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut11.csv;10;0.833705425;0.026663378;0.422261238;0.934922577;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut12.csv;11;-1.525521159;-0.11232087;0.168553352;1.538909035;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut13.csv;12;0.119594336;-0.040102988;-0.93174839;0.940247902;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut14.csv;13;-1.398162842;-1.092010975;-0.030670166;1.774341557;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut15.csv;14;-0.689747691;-0.80779171;4.829237938;4.944675761;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut16.csv;15;1.229497075;1.128202677;-1.273936272;2.099385139;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut17.csv;16;-0.493209958;0.271588564;-3.452703953;3.498311163;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut18.csv;17;-2.92828846;-0.157922685;-0.497413635;2.974429895;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut19.csv;18;-1.349511504;-1.60249567;-0.492008209;2.152032935;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut20.csv;19;0.101594135;0.344841123;-2.663073063;2.687228108;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut21.csv;20;-1.629620194;-1.335735321;2.280854225;3.105180642;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut22.csv;21;2.14061594;-0.119510889;-1.07032299;2.396270177;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut23.csv;22;0.551393032;-0.36410144;-1.671961784;1.797793187;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut24.csv;23;-2.217695951;-0.530504525;-1.20639801;2.579729936;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut25.csv;24;0.301634491;0.086025119;0.162780762;0.353385432;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_15_Kiesel_combo4_cut26.csv;25;-0.119942546;0.022586644;0.098462105;0.156815678;Kiesel;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut01.csv;0;0.382164091;-0.574546039;0.321278572;0.761165202;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut02.csv;1;-0.059846565;0.549783528;-0.364274025;0.662222851;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut03.csv;2;-0.029235005;0.008945405;0.180411339;0.182983488;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut04.csv;3;0.045615882;0.083100975;-0.003083229;0.094847704;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut05.csv;4;-0.755422354;-1.713557363;-0.058429718;1.873594353;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut06.csv;5;-0.498731762;-1.62838006;1.136656761;2.047521327;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut07.csv;6;0.962310076;-0.152747035;0.283382416;1.014730473;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut08.csv;7;1.039593101;-0.937090874;-0.00452137;1.399611933;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut09.csv;8;-0.267703772;1.739935994;-0.10217762;1.763372575;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut10.csv;9;-0.775221527;-0.217023403;2.658083916;2.777314832;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut11.csv;10;-0.545131803;1.112743974;-1.378060341;1.853218319;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut12.csv;11;1.064567685;-0.397402734;1.032270432;1.535192344;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut13.csv;12;-0.517561853;0.416047394;-1.530207634;1.668083064;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut14.csv;13;0.729686201;-0.103383362;0.556189537;0.923296741;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut15.csv;14;0.632720292;-1.040456295;-0.933766365;1.534537029;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut16.csv;15;0.540836453;0.049717009;1.238459587;1.352315791;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut17.csv;16;1.401406765;0.265832782;-0.15568161;1.434867503;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut18.csv;17;0.125906915;-0.088906944;-0.973610878;0.985735836;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut19.csv;18;-1.33878684;0.544319868;-1.033328056;1.776626352;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut20.csv;19;-0.568089843;0.670773029;1.096576691;1.405397796;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut21.csv;20;0.112045102;0.442399204;-1.111146927;1.20121549;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut22.csv;21;0.143098295;0.390019298;0.673903465;0.791667894;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut23.csv;22;-0.269676685;-0.05107975;1.111809731;1.14518799;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut24.csv;23;-0.015266903;0.188508451;0.955269814;0.973811548;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut25.csv;24;0.3297925;-1.043183565;1.863877296;2.161257416;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut26.csv;25;0.899102688;-0.412910938;-0.659859657;1.189241714;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut27.csv;26;0.697206974;-0.605517745;-0.485967636;1.043510349;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut28.csv;27;0.376559854;0.073184609;4.01E-05;0.383605673;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut29.csv;28;0.001818359;0.054037213;0.031761169;0.062706449;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_16_Klinker_combo4_cut30.csv;29;1.039880753;-0.947300077;0.549263954;1.510106058;Klinker;Dry;2.6;77.6;92.9;Backpack + Weight1 + Book (2.6kg)
+sample_17_Asfalt_combo5_cut01.csv;0;-0.193933815;0.295631409;2.068166733;2.098171082;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut02.csv;1;-0.010087252;0.005057335;0.101256371;0.101883178;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut03.csv;2;-0.316001892;0.050249577;0.043429375;0.322906064;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut04.csv;3;-2.846744537;0.643918693;0.29897213;2.933934232;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut05.csv;4;1.500847816;-1.07520628;0.223711968;1.859747229;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut06.csv;5;-1.374791145;-1.741183519;-0.070210457;2.21961714;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut07.csv;6;-0.858055234;0.034992695;-1.667366028;1.875524658;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut08.csv;7;-0.505127907;-0.103763498;-0.424453735;0.667893734;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut09.csv;8;-0.514753461;0.10712415;1.12921524;1.24562184;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut10.csv;9;0.638754726;0.921057105;1.246908188;1.676643617;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut11.csv;10;1.456178665;0.104385614;1.071926117;1.811181455;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut12.csv;11;0.302888244;-0.3740367;-0.066485405;0.485865259;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut13.csv;12;-0.633547366;1.107988715;-1.010818481;1.628120161;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut14.csv;13;-0.022267237;-0.128535867;-0.191970825;0.232099325;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut15.csv;14;0.067378372;0.433711648;-1.902714729;1.952682509;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut16.csv;15;0.08941853;-0.809225202;2.358170509;2.494756351;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut17.csv;16;0.773558796;0.342513502;-1.743151665;1.93759811;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut18.csv;17;0.042187393;-0.007104576;-0.60204792;0.603566027;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut19.csv;18;-2.612365484;0.739556253;-0.401274681;2.74452514;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut20.csv;19;0.438866824;0.026151657;0.500179291;0.665933421;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut21.csv;20;-0.250686497;-0.601507485;0.053407669;0.653840465;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut22.csv;21;-0.455290377;0.41905123;0.026320457;0.619343223;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut23.csv;22;-0.520160377;-0.300006449;0.147888184;0.61841863;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_17_Asfalt_combo5_cut24.csv;23;-0.012416244;0.007603228;0.095452309;0.096556281;Asfalt;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut01.csv;0;0.197969735;0.034085989;0.037944794;0.204435021;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut02.csv;1;-0.242251873;-0.074710503;-0.597073555;0.648663595;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut03.csv;2;3.14696908;-1.861754298;1.347071648;3.896683908;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut04.csv;3;-0.889471352;-2.017801523;1.892831802;2.906113299;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut05.csv;4;-3.034786701;1.46918273;-1.602715492;3.733245929;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut06.csv;5;-1.881011486;0.058080852;-0.615390778;1.979970557;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut07.csv;6;-2.044467211;0.294523239;-0.746943474;2.196477787;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut08.csv;7;1.533132792;2.450741768;-1.33869648;3.185708655;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut09.csv;8;-0.435396403;-0.735398293;1.487685204;1.715688766;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut10.csv;9;0.887983978;1.091559172;-0.990525246;1.720801334;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut11.csv;10;0.614157319;0.478975773;0.86055851;1.160675645;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut12.csv;11;0.68499887;-0.054559529;1.141319275;1.332219907;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut13.csv;12;0.606788874;-0.164698541;2.445453644;2.524987499;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut14.csv;13;1.967941046;-0.724613547;-0.475553513;2.150350645;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut15.csv;14;-0.828924656;0.567111254;-3.332655907;3.48070778;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut16.csv;15;0.50328362;-1.360408068;1.368339539;1.994080642;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut17.csv;16;0.17808786;-0.366541386;-1.285133362;1.348197178;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut18.csv;17;-0.05932416;-0.204512239;-0.078390121;0.22691325;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut19.csv;18;0.448304772;-1.869822025;0.103414536;1.925592413;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut20.csv;19;0.856533766;0.472990573;-0.379351616;1.049417849;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut21.csv;20;-0.005386412;0.00405401;0.062976837;0.063336644;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut22.csv;21;-0.013810635;0.053760886;0.062635422;0.083690875;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut23.csv;22;-0.405000538;-0.492996484;2.118065834;2.212074557;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_18_Gras_combo5_cut24.csv;23;3.305682659;4.018346786;-5.277163506;7.411012306;Gras;Damp;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut01.csv;0;0.113101155;0.822537065;-2.29406929;2.439695268;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut02.csv;1;-0.490099937;0.68886745;-1.346701622;1.590075964;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut03.csv;2;1.406536937;0.462484002;2.355259895;2.781993311;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut04.csv;3;-0.774131537;-0.352326155;1.112092018;1.40005786;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut05.csv;4;-0.504441261;1.108221531;-1.11644268;1.651986745;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut06.csv;5;1.004054427;1.139631987;-0.189723015;1.530647307;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut07.csv;6;1.044958353;-0.42102015;2.138735771;2.417309791;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut08.csv;7;-0.401006937;0.904142499;-1.795593739;2.049984657;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut09.csv;8;1.098406315;-0.33844766;2.396712303;2.658058147;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut10.csv;9;0.792638779;-0.003674924;-1.143657684;1.391489359;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut11.csv;10;0.117780656;0.185932666;2.074433327;2.086076908;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut12.csv;11;0.288400799;0.478359073;-0.21405983;0.598183947;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut13.csv;12;-0.646970332;-1.852877855;-0.656212807;2.069382083;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut14.csv;13;1.401457787;-0.896684885;2.862915993;3.311255909;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut15.csv;14;-0.265191197;1.317614079;-0.93463707;1.637064349;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut16.csv;15;-0.0768677;1.01127243;-1.35004425;1.688549688;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut17.csv;16;0.896388829;0.173238993;1.29858017;1.587398859;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut18.csv;17;0.975827932;-1.804008245;1.692499161;2.659180196;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut19.csv;18;0.149888575;-0.485656261;0.216995239;0.55264412;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut20.csv;19;0.125740424;-0.056502998;0.044712067;0.144922089;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut21.csv;20;1.196793437;-0.852737188;0.438660622;1.533590031;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut22.csv;21;-2.645234823;0.419038564;0.465239525;2.718328237;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut23.csv;22;-0.003394485;0.002778172;0.071511269;0.071645672;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut24.csv;23;-0.152617812;0.157865465;0.038146973;0.22286519;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut25.csv;24;-1.13150692;0.440671891;-0.532704353;1.325999077;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut26.csv;25;0.537269831;0.186907291;-0.359576225;0.672969738;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut27.csv;26;-3.423394203;1.363716841;1.158237457;3.862753616;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut28.csv;27;-2.231815338;-0.308263481;0.186924934;2.260744791;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut29.csv;28;1.273658633;-0.48415634;-1.529946327;2.048743381;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_19_Kiesel_combo5_cut30.csv;29;0.315112948;1.584788084;0.489401817;1.688301981;Kiesel;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut01.csv;0;-0.041720688;0.460878849;-0.420219421;0.625087427;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut02.csv;1;0.002775297;-0.018249214;-0.190927506;0.191817748;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut03.csv;2;0.098150298;0.011371315;0.089818954;0.133529893;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut04.csv;3;0.33579585;-0.337833732;0.280375481;0.552721353;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut05.csv;4;-2.086022377;2.143401146;0.088349342;2.992233854;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut06.csv;5;1.280955076;-1.069151402;-0.688646317;1.805038608;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut07.csv;6;2.319927692;1.215770364;-0.990460396;2.800209612;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut08.csv;7;0.398631752;-0.486961246;-0.420891762;0.75709207;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut09.csv;8;0.864407897;0.840114951;-1.545325279;1.959853148;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut10.csv;9;0.181622326;0.448608011;-1.273923874;1.362761114;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut11.csv;10;0.18342571;0.828426063;-0.610704422;1.045416005;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut12.csv;11;0.607993484;0.917643309;0.232096672;1.124986304;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut13.csv;12;-0.012029767;0.079827845;-0.311758995;0.322041723;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut14.csv;13;-0.616695404;0.571350932;-1.18806076;1.455418661;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut15.csv;14;0.024282157;0.636393666;0.144955635;0.653145204;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut16.csv;15;0.706637085;0.457817495;-1.942210674;2.116864457;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut17.csv;16;0.649274707;0.594566941;-0.397713661;0.966045366;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut18.csv;17;0.951176405;0.152708471;0.068886757;0.965816657;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut19.csv;18;-0.54329133;-1.529536247;2.131772995;2.679384762;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut20.csv;19;-0.72764349;0.398805618;-0.37061882;0.908773503;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut21.csv;20;-0.162326753;0.382944226;0.176971436;0.452012328;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut22.csv;21;0.356042028;0.00883913;0.047472;0.359301609;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut23.csv;22;-0.822547078;0.041019261;0.067811012;0.826356224;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut24.csv;23;-0.001054943;0.000197232;0.022186279;0.022212222;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
+sample_20_Klinker_combo5_cut25.csv;24;-0.572746873;0.240176618;-0.037537575;0.622200014;Klinker;Dry;4.6;79.6;94.9;Backpack + Weight1 + Book + Weight2 (4.6kg)
